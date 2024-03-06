@@ -8,11 +8,7 @@ redirect_from:
 
 
 
-<picture>
-  
-  <img src="/images/TUI-B787.JPG" alt="Flowers" style="width:350px;">
-  <img src="/images/TUI-B767.JPG" alt="Flowers" style="width:350px;">
-</picture>
+
 
 ![PIC](/images/MU-C919.jpg)
 
