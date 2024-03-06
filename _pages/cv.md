@@ -4,11 +4,14 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
+
+
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +65,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+ -->
