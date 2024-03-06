@@ -7,10 +7,7 @@ redirect_from:
 ---
 
 ![PIC](/images/DSC_9426.JPG)
-asdfsdf
+Fuji
 
-![PIC](/images/DSC_9426.JPG)
-adsffds
-
-![PIC](/images/DSC_9426.JPG)
-dsafsdfa
+![PIC](/images/DSC_2830.JPG)
+Manchester
