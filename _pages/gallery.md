@@ -14,9 +14,9 @@ redirect_from:
   <img src="/images/TUI-B767.JPG" alt="Flowers" style="width:350px;">
 </picture>
 
-![PIC](/images/MU-C919.JPG)
+![PIC](/images/MU-C919.jpg)
 
-![PIC](/images/TUI-B767.JPG)
+![PIC](/images/TUI-B767.jpg)
 
 ![PIC](/images/NYC.JPG)
 
