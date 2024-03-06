@@ -8,7 +8,7 @@ redirect_from:
 ---
 A data-driven personal website
 ======
-I'm a first-year master’s student in the ECE department at Duke University. I received the bachelor of science degree from Cornell University in operations research information engineering. My previous research experience includes transportation engineering, data science in transportation, as well as operations management. I had an internship experience at Norfolk Southern, as an operations research intern, and at Kingsoft Cloud, as a data scientist intern. After I finishe my the master’s degree, I hopes to be accepted into a leading PhD program to study transportation engineering or aviation mamagement.
+I'm a first-year master’s student majoring in electrical and computer engineering at Duke University. I received a bachelor of science degree from Cornell University in operations research information engineering. My previous research experience includes transportation engineering, data science in transportation, as well as machine learning. I had an operations research internship experience at Norfolk Southern before. After I finish my master’s degree, I hope to be accepted into a leading PhD program to study aviation or transportation engineering.
 
 
 
