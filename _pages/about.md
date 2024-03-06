@@ -12,5 +12,5 @@ I'm a first-year master’s student majoring in electrical and computer engineer
 
 
 
-![PIC](/images/DSC_9426.JPG)
+![PIC](/images/NYC.JPG)
 
