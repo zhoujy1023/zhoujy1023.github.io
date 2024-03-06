@@ -21,7 +21,7 @@ repository               : "zhoujy1023/zhoujy1023.github.io" #"academicpages/aca
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "self-pic.png"
   name             : "Jianyang Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Cornell ORIE | Duke ECE"
