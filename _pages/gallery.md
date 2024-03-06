@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-![PIC](/images/MU-C919.jpg)
+![PIC](/images/MU-C919.png)
 
 ![PIC](/images/TUI-B767.jpg)
 
