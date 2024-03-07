@@ -6,35 +6,26 @@ redirect_from:
   - /gallery
 ---
 
+<picture>
 
-![PIC](/images/MU-C919.png)
+  <img src="/images/TUI-B787.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/TUI-B767.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/VS-A330.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/EI-A330.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Jet2-B757.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/UA-B772.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 
-![PIC](/images/TUI-B767.png)
+  <img src="/images/EK-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/SQ-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/MU-C919.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Kyoto.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Fuji.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 
-![PIC](/images/NYC.png)
+  <img src="/images/Menyuan-CRH5.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Museum.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Qinghai.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  
 
-![PIC](/images/TUI-B787.png)
-
-![PIC](/images/VS-A330.png)
-
-![PIC](/images/EI-A330.png)
-
-![PIC](/images/Jet2-B757.png)
-
-![PIC](/images/UA-B772.png)
-
-![PIC](/images/EK-A380.png)
-
-![PIC](/images/Kyoto.png)
-
-![PIC](/images/Menyuan-CRH5.png)
-
-![PIC](/images/Museum.png)
-
-![PIC](/images/Fuji.png)
-
-![PIC](/images/SQ-A380.png)
-
-![PIC](/images/Qinghai.png)
+</picture>
 
 ![PIC](/images/Cornell.png)
