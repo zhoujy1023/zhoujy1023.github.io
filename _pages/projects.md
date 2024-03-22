@@ -5,19 +5,9 @@ author_profile: true
 redirect_from: 
   - /project
 ---
-[Helicopter Emergency Transport in Upstate New York](/files/Helicopter.pdf)
-======
-![PIC](/images/helicopter.png)
-
-•	Led a five-student team to model and implement a New York State helicopter rescue system
-
-•	Analyzed historical data, and performed thinning method simulation to generate random data
-
-•	Developed an algorithm using a heuristic method to compute the optimal location arrangement for 5 to 12 helicopters. Optimized the average response time to 0.42 hours, and the available rate at 79.5%
 
 
-
-[Domestics Flight Delay Analysis](/files/delay.pdf)
+[Domestics Flight Delay Analysis in the United States](/files/delay.pdf)
 ======
 ![PIC](/images/delay_time.png)
 
@@ -27,6 +17,17 @@ redirect_from:
 
 •	Published advice for passengers regarding choosing flight through intuitive visualization by SQL and Tableau, and demonstrated the correlation between airplane delays and factors such as weather, time, etc
 
+
+
+[Helicopter Emergency Transport in Upstate New York](/files/Helicopter.pdf)
+======
+![PIC](/images/helicopter.png)
+
+•	Led a five-student team to model and implement a New York State helicopter rescue system
+
+•	Analyzed historical data, and performed thinning method simulation to generate random data
+
+•	Developed an algorithm using a heuristic method to compute the optimal location arrangement for 5 to 12 helicopters. Optimized the average response time to 0.42 hours, and the available rate at 79.5%
 
 
 [COVID-19 Prediction from Symptoms](/files/covid.pdf)
