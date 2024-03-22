@@ -11,13 +11,20 @@ redirect_from:
   <img src="/images/Jet2-B757.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/UA-B772.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/EI-A330.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
-  <img src="/images/BA-B747.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/SFO-EK-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/EK-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/SQ-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/BA-A350.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/PEK-SQ380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/PEK-UA744.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/PEK-CA330.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/SFO-EK380-BA744.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/SFO-BA380-EK380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/SFO-EK380-AS175.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/SJC-HU789.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/PEK-MF787.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 </picture>
-Aviation
+
 
 <picture>
   <img src="/images/Museum.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
@@ -27,8 +34,9 @@ Aviation
   <img src="/images/Menyuan-CRH5.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/DF4D.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Qinghai.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Chengkun.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 </picture>
-Railway
+
 
 <picture>
   <img src="/images/Bridge.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
@@ -39,5 +47,6 @@ Railway
   <img src="/images/Canyon.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Cornell.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 </picture>
-Landscape
 
+
+Every journey offers me a unique perspective and an opportunity to appreciate the intricacies of different cultures.
