@@ -16,7 +16,10 @@ redirect_from:
   <img src="/images/EK-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/SQ-A380.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/BA-A350.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+</picture>
+Aviation
 
+<picture>
   <img src="/images/Museum.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Kyoto.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Fuji.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
@@ -24,13 +27,17 @@ redirect_from:
   <img src="/images/Menyuan-CRH5.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/DF4D.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Qinghai.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
-  
+</picture>
+Railway
+
+<picture>
   <img src="/images/Bridge.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/NYC.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   
-  <img src="/images/Tokyo-N700A.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Kyoto-N700A.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Chongqing.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Canyon.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Cornell.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
 </picture>
+Landscape
 

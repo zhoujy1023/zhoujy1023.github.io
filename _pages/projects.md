@@ -5,10 +5,9 @@ author_profile: true
 redirect_from: 
   - /project
 ---
-
-Helicopter Emergency Transport in Upstate New York
+[Helicopter Emergency Transport in Upstate New York](/files/Helicopter.pdf)
 ======
-[PDF](/files/Helicopter.pdf)
+![PIC](/images/helicopter.png)
 
 •	Led a five-student team to model and implement a New York State helicopter rescue system
 
@@ -17,9 +16,10 @@ Helicopter Emergency Transport in Upstate New York
 •	Developed an algorithm using a heuristic method to compute the optimal location arrangement for 5 to 12 helicopters. Optimized the average response time to 0.42 hours, and the available rate at 79.5%
 
 
-Domestics Flight Delay Analysis
+
+[Domestics Flight Delay Analysis](/files/delay.pdf)
 ======
-[PDF](/files/delay.pdf)
+![PIC](/images/delay_time.png)
 
 •	Built models in Python to investigate a dataset of 5,000,000 flights delays and cancellations in the U.S
 
@@ -29,9 +29,9 @@ Domestics Flight Delay Analysis
 
 
 
-COVID-19 Prediction from Symptoms
+[COVID-19 Prediction from Symptoms](/files/covid.pdf)
 ======
-[PDF](/files/covid.pdf)
+![PIC](/images/COVID.png)
 
 •	Performed statistical analysis model to forecast the probability of positive cases by given symptoms
 
