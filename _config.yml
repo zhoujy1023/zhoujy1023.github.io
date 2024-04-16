@@ -71,7 +71,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
+  webstat          : <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lCul7YDvx7DOKqG0uhfwazpSf9SMfQf50x5wWdKAsiI&cl=ffffff&w=a"></script>
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
