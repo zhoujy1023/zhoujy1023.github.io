@@ -49,4 +49,4 @@ redirect_from:
 </picture>
 
 
-Every journey offers me a unique perspective and an opportunity to appreciate the intricacies of different cultures.
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lCul7YDvx7DOKqG0uhfwazpSf9SMfQf50x5wWdKAsiI&cl=ffffff&w=a"></script>
