@@ -19,7 +19,7 @@ redirect_from:
 
 <picture>
   <img src="/images/Museum.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
-  <img src="/images/Kyoto.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
+  <img src="/images/Fuji.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Tokuyama-N700A.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Menyuan-CRH5.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
   <img src="/images/Qinghai.png"  style="width:350px; margin-top:10px; margin-bottom:10px; margin-right: 10px; margin-left:10px;">
